@@ -1,0 +1,6 @@
+Django==3.2.12
+graphene==2.1.9
+graphene-django==2.15.0
+uuid==1.30
+django-allauth==0.50.0
+djangorestframework==3.13.1
